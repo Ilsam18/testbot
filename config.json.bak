@@ -1,0 +1,14 @@
+{
+    "ownerNumber": "628xxxx@s.whatsapp.net",
+    "ownerName": "Fadly ID",
+    "botName": "Hatsune Miku Bot",
+    "footer": "2022 © FADLY ID",
+    "sessionName": "session",
+    "pathimg": "./media/logo.jpg",
+    "lolkey": "botdapp",
+    "instagram": "https://instagram.com/iamfadlyid_",
+    "sticker": {
+        "packname": "Created By",
+        "author": "Hatsune Miku Bot"
+    }
+}
